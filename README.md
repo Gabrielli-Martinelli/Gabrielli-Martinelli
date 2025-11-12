@@ -147,7 +147,7 @@ Olá! Me chamo Gabrielli Machado Martinelli, tenho 18 anos e sou natural do Rio 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielli-martinelli&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielli-martinelli&show_icons=true&theme=dracula&locale=pt-br" 
   />
 
 <img 
