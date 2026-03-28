@@ -53,7 +53,7 @@ Minha atuação profissional é guiada pela construção de sistemas robustos e 
         Solução acadêmica full-stack para gestão financeira pessoal. Desenvolvida para oferecer um fluxo de caixa intuitivo, focado em organização e controle de dados.
       </p>
       <p align="left">
-        <b>Stack:</b> Java 17, Spring Boot, ReactJS e MySQL.
+        <b>Stack:</b> Java 17, Spring Boot, ReactJS e OracleDB.
       </p>
       <a href="https://github.com/euelisee/finbal-fintech"><b>Ver Repositório Backend →</b></a>
         <br><br>
